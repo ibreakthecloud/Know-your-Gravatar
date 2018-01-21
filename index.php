@@ -11,7 +11,7 @@ session_start();
 
 
 ?>
-<!-- adding comments testing for more-->
+<!-- adding comments testing for more testing for multiple parameters-->
 <!DOCTYPE html>
 <html>
 <head>
