@@ -11,7 +11,7 @@ session_start();
 
 
 ?>
-
+<!-- adding comments -->
 <!DOCTYPE html>
 <html>
 <head>
